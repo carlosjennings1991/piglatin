@@ -14,3 +14,7 @@ Let's get started!
 <img src="https://github.com/carlosjennings1991/piglatin/blob/main/code_pig_latin.png">
 
 ## Now lets test it ourselves with some text. 
+
+<img src="https://github.com/carlosjennings1991/piglatin/blob/main/sample_text_pig_latin.png">
+
+And there you have it! A pig latin translator!
