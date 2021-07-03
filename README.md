@@ -8,3 +8,7 @@ Pig Latin is an argot which takes the first letter of a word, moves it to the en
 Let's get started!
 
 ##
+
+## Below is the function which reads in the text and returns Pig Latin
+
+<img src="https://github.com/carlosjennings1991/piglatin/blob/main/code_pig_latin.png">
