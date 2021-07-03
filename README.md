@@ -9,7 +9,7 @@ Let's get started!
 
 ##
 
-## Below is the function which reads in the text and returns Pig Latin
+## Below is the Python function which reads in the text and returns Pig Latin
 
 <img src="https://github.com/carlosjennings1991/piglatin/blob/main/code_pig_latin.png">
 
